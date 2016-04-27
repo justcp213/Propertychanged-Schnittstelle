@@ -1,0 +1,1 @@
+# Propertychanged-Schnittstelle
